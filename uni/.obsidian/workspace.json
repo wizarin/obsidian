@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aos/hex.md",
+                "file": "aos/_aos_glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hex"
+              "title": "_aos_glossary"
             }
           }
         ],
@@ -183,20 +183,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "c1111e1f0c1ff867",
   "lastOpenFiles": [
+    "aos/hex.md",
     "aos/binary.md",
     "aos/binary_arithmetic.md",
-    "aos/hex.md",
     "ccc/discovery.md",
     "ccc/CCC Glossary.md",
     "aos/_aos_glossary.md",
