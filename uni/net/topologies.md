@@ -1,0 +1,2 @@
+
+![[star_topology.png]]
