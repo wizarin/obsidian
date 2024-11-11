@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aos/_aos_glossary.md",
+                "file": "ccc/discovery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_aos_glossary"
+              "title": "discovery"
             }
           }
         ],
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 220.5
   },
   "right": {
     "id": "fd62b690e843b4f8",
@@ -194,21 +194,26 @@
   },
   "active": "c1111e1f0c1ff867",
   "lastOpenFiles": [
+    "net/Protocols 2.md",
+    "Protocols 2.md",
+    "ccc/discovery.md",
+    "ccc/ccc_img/media_query.png",
+    "dsd/ERD Notations.png",
+    "dsd/_dsd_glossary.md",
+    "dsd/case_study_notes.md",
+    "aos/_aos_glossary.md",
+    "ccc/html_css/elements.md",
+    "ccc/html_css/selectors.md",
     "aos/hex.md",
     "aos/binary.md",
     "aos/binary_arithmetic.md",
-    "ccc/discovery.md",
     "ccc/CCC Glossary.md",
-    "aos/_aos_glossary.md",
     "aos/base.md",
-    "dsd/_dsd_glossary.md",
     "dsd/ssh.md",
     "z_excalidraw/Drawing 2024-10-23 02.37.24.excalidraw.md",
-    "dsd/ERD Notations.png",
     "net/topologies.md",
     "net/_net_glossary.md",
     "_notes/_todo.md",
-    "ccc/html_css/elements.md",
     "ccc/ccc_img/Drawing 2024-11-10 05.20.16.excalidraw.md",
     "ccc/html_css/markdown.md",
     "ccc/html_css/html.md",
@@ -216,21 +221,16 @@
     "ccc/web/webpages.md",
     "code/_code_glossary.md",
     "_notes/2024-11-10.md",
-    "ccc/web/ssh.md",
-    "ccc/html_css/selectors.md",
     "ccc/html_css",
     "ccc/web",
-    "Test.md",
     "_notes/net",
     "_notes/code",
     "_notes/dsd",
     "_notes/ccc",
     "_notes/a_os",
     "_notes",
-    "dsd/case_study_notes.md",
     "dsd",
     "z_excalidraw",
-    "code/Python/Strings.md",
     "code/Programming Images/String Indexing.png",
     "code/Programming Images/Object Diagram.png",
     "code/Programming Images/format() method.png",
@@ -239,7 +239,6 @@
     "ccc/ccc_img/nesting_selector.png",
     "ccc/ccc_img/html_element.png",
     "ccc/ccc_img/element_attribute.png",
-    "ccc/ccc_img/css_rule.png",
     "Untitled.canvas"
   ]
 }
