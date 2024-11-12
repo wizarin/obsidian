@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "net/Protocols 2.md",
+                "file": "_notes/2024-11-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protocols 2"
+              "title": "2024-11-11"
             }
           }
         ],
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Networks/Networks Glossary.md",
+            "file": "_notes/2024-11-11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,7 +165,11 @@
   },
   "active": "54e4758a65a7569c",
   "lastOpenFiles": [
+    "_notes/2024-11-12.md",
+    "_notes/2024-11-11.md",
+    "dsd/_dsd_glossary.md",
     "net/Protocols 2.md",
+    "ccc/discovery.md",
     "_notes/2024-11-10.md",
     "Test.md",
     "Networks/Networks Glossary.md",

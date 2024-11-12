@@ -1,8 +1,11 @@
 **How to approach a database:**
 	Requirements
+		Understanding the business requirements, extracting entities
 		ERD
-	Implementation
+		Decide in the DBMS you are using
+	Implementation - physical design and integration - SQL
 		The code
+		Define constraints
 	Evaluation
 		Testing and assessing against business requirements
 
