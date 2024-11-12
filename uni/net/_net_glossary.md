@@ -6,3 +6,8 @@
 	A set of rules for the component-to-component communications in a network
 [[topologies]]
 	The physical structure of a network.
+DHCP
+     Dynamic 
+ARP
+     Address Resolution Protocol
+MAC
