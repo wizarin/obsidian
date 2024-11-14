@@ -1,3 +1,5 @@
+
+
 base = n^(in range (n-n, n-1))
 
 Decimal = base 10
