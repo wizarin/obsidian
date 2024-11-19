@@ -11,3 +11,5 @@ DHCP
 ARP
      Address Resolution Protocol
 MAC
+
+TTL time to live 

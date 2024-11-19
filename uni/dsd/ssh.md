@@ -9,3 +9,5 @@ Once Logged in
 	**OR**
 	cd to dir with index.html
 	npx http-server
+
+PuTTY for uni pcs
