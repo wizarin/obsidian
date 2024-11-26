@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/2024-11-22.md",
+                "file": "_notes/2024-11-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-22"
+              "title": "2024-11-26"
             }
           }
         ]
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_notes/2024-11-22.md",
+            "file": "_notes/2024-11-26.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,18 +150,20 @@
   },
   "active": "af8c8d94f0c65f8d",
   "lastOpenFiles": [
-    "ccc/CCC Glossary.md",
-    "_notes/2024-11-22.md",
-    "_notes/2024-11-19.md",
-    "dsd/ssh.md",
-    "_notes/2024-11-18.md",
+    "_notes/Notes 25th.md",
+    "_notes/2024-11-26.md",
     "_notes/2024-11-12.md",
+    "_notes/2024-11-11.md",
+    "_notes/2024-11-22.md",
     "_notes/2024-11-15.md",
+    "_notes/2024-11-18.md",
+    "_notes/2024-11-19.md",
+    "ccc/CCC Glossary.md",
+    "dsd/ssh.md",
     "net/_net_glossary.md",
     "aos/binary.md",
     "aos/base.md",
     "_notes/2024-11-10.md",
-    "_notes/2024-11-11.md",
     "dsd/_dsd_glossary.md",
     "net/Protocols 2.md",
     "ccc/discovery.md",
