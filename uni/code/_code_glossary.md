@@ -38,3 +38,18 @@
 ![[Object Diagram.png]]
 	`d = c`
 	When multiple variables point to the same object it is know as object aliasing.
+
+**Nested Loops**
+nested loops execute the full nested loop for a single execution of the parent loop
+check *for loop* below for example, using two loops of 5 you can add up to 25
+**Loops**
+	**For**
+	For loops are for code that can have its loop number predicted in advance.
+	`total = 0`
+	`for num in range(1,6):
+		`for num2 in range(1,6):
+			`total += 1`
+	^Total = 25
+-
+	**While**
+	While loops check the condition of the loop at the top, conditions can be Boolean expressions using operators and 'words' like `while x not in y`
