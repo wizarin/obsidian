@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/2024-11-19.md",
+                "file": "dsd/case_study_notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-19"
+              "title": "case_study_notes"
             }
           }
         ]
@@ -165,8 +165,17 @@
   },
   "active": "c1111e1f0c1ff867",
   "lastOpenFiles": [
+    "dsd/ERD Notations.png",
+    "code/Python/Strings.md",
+    "code/Python/Python Arithmetic.md",
+    "aos/base.md",
+    "aos/binary.md",
+    "aos/hex.md",
+    "aos/_aos_glossary.md",
     "_notes/2024-11-22.md",
     "_notes/2024-11-25.md",
+    "code/Python/File Processing.md",
+    "code/_code_glossary.md",
     "_notes/2024-11-19.md",
     "_notes/2024-11-11.md",
     "_notes/2024-11-12.md",
@@ -176,23 +185,13 @@
     "ccc/html_css/selectors.md",
     "ccc/html_css/elements.md",
     "ccc/html_css/html.md",
-    "code/Python/File Processing.md",
-    "code/Python/Python Arithmetic.md",
-    "code/Python/Strings.md",
-    "code/_code_glossary.md",
     "_notes/_todo.md",
     "_notes/2024-11-10.md",
-    "aos/binary.md",
-    "aos/base.md",
     "ccc/discovery.md",
-    "aos/hex.md",
     "net/Protocols 2.md",
     "Protocols 2.md",
     "ccc/ccc_img/media_query.png",
-    "dsd/ERD Notations.png",
     "dsd/_dsd_glossary.md",
-    "dsd/case_study_notes.md",
-    "aos/_aos_glossary.md",
     "ccc/html_css",
     "ccc/web",
     "_notes/net",

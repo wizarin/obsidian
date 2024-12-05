@@ -47,7 +47,14 @@
 		Gives the int that corresponds with given character
 	string.count("String")
 		Counts how many times the given string value appears in the string variable
-
+	string.islower()
+	string.isupper()
+	string.istitle()
+		Returns true if every first letter is capitalised
+	string.isalpha()
+		Returns true if characters are all letters
+	string.isdigit()
+		Returns true if characters are all digits
 **String Formatting:**
 	A Formatted String Literal or f-string is a string with fields that can be replaced, these fields are show by expressions defined within {}. This can also be done with the format() method. Any string can be formatted, not just the print() method.
 	![[f-string.png]]

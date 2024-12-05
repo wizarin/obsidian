@@ -1,8 +1,5 @@
 [[base]] 2
-0 or 1
-
-2^0 = 1
-2^1 = 2
+0 or 1 is the total range of single units, in decimal this is 0 or 1 or 2 ... or 9
 
 Decimal to Binary:
 	Divide number by 2 and record remainder, either 0 or 1. The remainders from first to last read a binary number from left to right.

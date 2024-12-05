@@ -53,3 +53,5 @@ check *for loop* below for example, using two loops of 5 you can add up to 25
 -
 	**While**
 	While loops check the condition of the loop at the top, conditions can be Boolean expressions using operators and 'words' like `while x not in y`
+
+**Extraction and Inversion** is used to de-nest code. Extraction, taking out a part of the code and making it a separate function
