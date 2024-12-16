@@ -26,11 +26,20 @@ SELECT
     2. WHERE table.attribute_name.... attribute = 'value'
     SUBQUERY/INTERSECT/UNION/EXCEPT
     3. GROUP BY ....
-    4. HAVING .... ( Filters groups of rows)
+    4. HAVING .... (WHERE for groups of rows)
     5. SELECT ....
     6. ORDER BY attribute1 ASC, attribute2DESC. The query is sorted by attribute1 and then sub-sorted by attribute2 within A1.
     7. LIMIT (int) is the end of the statement, it is an interesting to choose total rows returned. Does not optimise the query, it simply hides the rest of the search. OFFSET (int) skips the given int of rows.
     8. RETURN RESULT
+
+1. FROM... *choose and Join tables*
+    JOIN...
+2. WHERE... *Filters the base data*
+3. GROUP BY... *Groups the base data*
+4. HAVING... *Filters the grouped data*
+5. SELECT... *Returns the final data*
+6. ORDER BY... *Sorts the final data*
+7. LIMIT... *Limits data to chosen num of rows*
 
 FROM
 Operators for WHERE:
