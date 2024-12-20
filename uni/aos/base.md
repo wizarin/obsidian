@@ -1,3 +1,4 @@
+
 n = base
 n^(range(n-n, n-1))
 
@@ -21,3 +22,10 @@ Decimal to Base:
 	Divide number by base and record remainder. The remainders from first to last read the number in the new base. The last remainder is the highest digit of the number in the new base.
 
 Base to Decimal: 
+	Multiply each number by the base^significant figure of the number
+	So to convert 1234 in base 4 you would:
+		4 x 4^0
+		3 x 4^1
+		2 x 4^2
+		1 x 4^3
+	And then sum the total of these multiplications. 

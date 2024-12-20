@@ -19,7 +19,6 @@ Binary to [[hex]]:
 	0 x 1 = 0
 	1 x 1 = 1
 ![[binary_multi.png]]
-
 **Subtraction:**
 	0 - 0 = 0
 	1 - 0 = 1
@@ -31,7 +30,14 @@ Binary to [[hex]]:
 
 **Addition, Subtraction using logic gates**
 ![[adder_subtractor.png]]
+The subtraction circuits use 2s compliment
 
 **Most Significant Bit - MSB**
 The MSB is the far left bit in a byte, the one that denotes the highest value.
 The MSB is used to signify the **Sign Magnitude** of the binary number. The sign magnitude refers to whether the number is positive(0) or negative (1). Like this; 01101011 or 10000001 11010111
+
+**1s Compliment**
+Invert the negative number, perform the addition. Add 1 to the result 
+**2s Compliment**
+Invert the negative number, add 1 to it. Perform the addition, discard the remainder.
+2s is preferred in modern computer architecture because it only has one way to represent 0.
