@@ -19,7 +19,7 @@ OSI model
 
 Moodle questions
 
-Don't need WAN, X25, Frame Relay
+*Don't need WAN, X25, Frame Relay*
 
 **Protocols**:
     What if rules for network.
