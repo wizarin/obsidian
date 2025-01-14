@@ -11,10 +11,10 @@ Less descriptive, challenge the arguments made in an article by using other arti
 COMPAS algorithm - justice algorithm 
 Animal liberation - Peter singer
 
-
+---
 Attenuation - Shannon and nyquis
 The noise that can be measured in the signal
-The further you are from a signal putput the higher the attenuation. Like a radio signal that gets more white noise as you drive away from it. This is predictable noise that increases as signal gets weaker 
+The further you are from a signal output the higher the attenuation. Like a radio signal that gets more white noise as you drive away from it. This is predictable noise that increases as signal gets weaker 
 
 Phase delay/distortion -
 A delay added to the signal, the signal is repeated but with a delay so you can interpret it twice 

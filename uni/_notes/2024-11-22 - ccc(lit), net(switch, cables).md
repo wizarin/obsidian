@@ -8,8 +8,8 @@ Perplexity
 
 Specify the level of previous understanding when questioning AI. E.g. age, first year undergrad student.
 
-
-**Networks Practical**
+---
+## **Networks Practical**
 Switches use a forwarding table which is initially empty.
 When a switch receives a packet, it records the Mac address of the source device and the port that it came in through. It records this data in the table, assigning the mac address to the port.
 
@@ -20,7 +20,7 @@ The switch receives the packet and assigns in the forwarding table; The source M
 The switch then forwards the packet to the destination heading in the packet header, which is what the source address initially was. Because the address is already in the forwarding table, the switch unicasts to the destination address in the packet header.
 This completes a packet being sent forward and back between two devices.
 
----
+## **Cables**
 10baseT
 (twisted, copper) or baseF(for fibre)
 base is to do with the physics of the cable

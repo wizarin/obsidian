@@ -1,13 +1,13 @@
 Huggingface.com
 
-
-**Ccc**
+**CCC
 Git status
 
 Git diff
 
 Bug comes up on feature branch. Pull main, fix bug, push. Pull fix to feature branch.
 
+---
 **Networks**
 Hub Vs switch
 Hub broadcasts to all devices connected to it, this create extra traffic on the network.

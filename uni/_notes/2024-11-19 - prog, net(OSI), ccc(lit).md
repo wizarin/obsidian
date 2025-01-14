@@ -4,7 +4,7 @@ For loop is when number of iterations is known.
 
 If statement evaluates boolean variables without ==  maybe same for while?
 
-
+---
 **OSI reference model**
 Open Systems Interconnection
 Started in 1977, Drafted in 1979, ratified in 1984
@@ -42,8 +42,7 @@ Open procurement
 Standards are monitored by checking the standards every 5 to 6 years.
 Fast tracking new technology developments that require new ratified standards.
 
-
-
+---
 Choose research question
 find academia discussing the question
 report what the academia you have read has said

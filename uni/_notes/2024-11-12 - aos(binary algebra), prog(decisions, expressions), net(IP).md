@@ -1,4 +1,4 @@
-***AOS***
+**AOS**
 Eventually all code is made into circuits using gates. 
 Circuit efficiency - reduce amount of gates.
 
@@ -40,7 +40,8 @@ RuleS(rules)
      Using r10 to make common terms
 12. (A + B)(A + C) = AA + AC + BA + BC = A + AC + BA + BC = A + BA + BC = A + BC
 
-***Programming***
+---
+**Programming**
 Return ends the function, even in a loop
 Return (expression) can return the result of the expression. Any using == returns bool.
 
@@ -51,14 +52,14 @@ Outer loop
 
 **Decision structures** 
  **If statement** 
- <checks an expression> to execute statements. If, else good for binary choices.
+ checks an expression to execute statements. If, else good for binary choices.
  Elif and else at the end to guarantee one branch of if being executed. 
  if char.isdigit(): this is a function that returns a bool so if (bool):
 
 If temp >= 20 && temp < 23:
      return None
 If temp < 20:
-ElIf 20 <= temp < 23: can remove 20 <= as condition is checked by previous branch of if>
+ElIf 20 <= temp < 23: can remove 20 <= as condition is checked by previous branch of if >
 
 **Boolean expressions**
 Comparison operators
@@ -68,7 +69,8 @@ Short circuit
      If x and y: 
      if x condition is not met then y is not checked
 
-***Networks***
+---
+**Networks**
 IP addressing is Indirectly related to security and system management.
 
 IP is

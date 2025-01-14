@@ -1,5 +1,9 @@
 ## Protocols
+---
+[[protocols]]
 ## Topologies
+---
+[[topologies]]
 
 ## Professional standards
 
@@ -17,16 +21,4 @@
 ## Throughput
 ## Open Systems Interconnection reference model
 ---
-Made by the International Organisation for Standardisation(ISO)
-
-7. Application
-	Human machine interface, message format 
-	Eg. SMTP
-6. Presentation
-	binary encoding/decoding, encryption, compression
-5. Session
-	Authentication, permissions, session restore
-4. Transport
-3. Network
-2. Data Link
-1. Physical
+[[OSI model]]

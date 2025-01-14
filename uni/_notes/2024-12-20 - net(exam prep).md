@@ -3,7 +3,7 @@ Based on geographical boundaries Vs no geo constraints
 
 TCP Vs UDP
 Reliable Vs unreliable
-Fast Vs slow
+slow vs fast
 
 Connectionless Vs connection oriented
 No end to end connection Vs established connection before transmitting.

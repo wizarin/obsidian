@@ -7,3 +7,29 @@ Connection Vs connection less
 Protocols interact with packets. 
 Packets are the structure used to send and receive information on the web. There are seven layers of the packet that a protocol can interact with.
 Each packet has a packet head. 
+
+---
+Ethernet (IEEE 802.3)
+
+Wi-Fi (IEEE 802.11)
+
+IP
+
+ARP
+
+TCP
+
+UDP
+
+SMTP
+
+HTTP
+
+FTP
+
+DNS
+
+ASCII
+
+JPEG
+

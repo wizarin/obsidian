@@ -4,6 +4,7 @@ Algorithm,
 Top down design - tree structure 
 Breaking down a problem into subsequent tasks until it is solvable 
 
+---
 **Networks ----- Cables**
 Wired vs wireless
 Wireless
@@ -17,7 +18,8 @@ Wireless
      Infrared Comms
      WLAN (wifi) IEEE 802.11
      RFID
-Wired ±---++-----+-+++-------
+Wired
+---
 Twisted
     unshielded(UTP), cheapest l, cat(category) 3 to 6 defines the max cable speed. RJ 45. Uses multiplexing.
     Shielded (STP) - used mostly by IBM. Thicker, braid and/or foil, two layers of insulation. For the prevention of electrical interference.
