@@ -2,7 +2,7 @@
 0 or 1 is the total range of single units, in decimal this is 0 or 1 or 2 ... or 9
 
 Decimal to Binary:
-	Divide number by 2 and record remainder, either 0 or 1. The remainders from first to last read a binary number from left to right.
+	Divide number by 2 and record remainder, either 0 or 1. The remainders from last to first read a binary number from left to right.
 Binary to [[hex]]:
 	Convert a single digit of hex into a 4-bit binary number. as a single digit is between 0 and 15, the size range of a 4-bit number.
 	

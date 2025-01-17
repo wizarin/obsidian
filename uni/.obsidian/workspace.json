@@ -4,89 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "aece4455282dd7bc",
+        "id": "0cc98fa0c16d1158",
         "type": "tabs",
-        "dimension": 35.28072837632777,
         "children": [
           {
-            "id": "6285ac16aaafbb3f",
+            "id": "1b3081de22e4f315",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "net/cables.md",
+                "file": "aos/binary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cables"
+              "title": "binary"
+            }
+          },
+          {
+            "id": "774970676c15fefc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/2024-12-03 - aos(Karnaugh), prog(collection types), net(virtual circuits).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-03 - aos(Karnaugh), prog(collection types), net(virtual circuits)"
+            }
+          },
+          {
+            "id": "cfb0f16f7f20ae88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/2024-12-18 - aos(1s & 2s), ccc(lit).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-18 - aos(1s & 2s), ccc(lit)"
+            }
+          },
+          {
+            "id": "4c63fd0a023d1357",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/2024-11-12 - aos(binary algebra), prog(decisions, expressions), net(IP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-12 - aos(binary algebra), prog(decisions, expressions), net(IP)"
             }
           }
         ]
-      },
-      {
-        "id": "00083ecb7d0d1fd6",
-        "type": "tabs",
-        "dimension": 64.71927162367223,
-        "children": [
-          {
-            "id": "b5cee3245572ee74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/2024-12-17 - net(exam).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-17 - net(exam)"
-            }
-          },
-          {
-            "id": "6e9715f2c683797c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/2024-12-20 - net(exam prep).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-20 - net(exam prep)"
-            }
-          },
-          {
-            "id": "d9470bde073fc0a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/2024-11-26 - prog, net(cables).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-26 - prog, net(cables)"
-            }
-          },
-          {
-            "id": "44c415784f5ac9c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/2024-11-22 - ccc(lit), net(switch, cables).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-22 - ccc(lit), net(switch, cables)"
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 558.5
+    "width": 200
   },
   "right": {
     "id": "fd62b690e843b4f8",
@@ -228,15 +205,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6285ac16aaafbb3f",
+  "active": "1b3081de22e4f315",
   "lastOpenFiles": [
-    "_notes/2024-11-26 - prog, net(cables).md",
+    "aos/karnaugh.md",
+    "aos/binary.md",
+    "_notes/2024-11-12 - aos(binary algebra), prog(decisions, expressions), net(IP).md",
+    "_notes/2024-12-03 - aos(Karnaugh), prog(collection types), net(virtual circuits).md",
+    "_notes/2024-12-18 - aos(1s & 2s), ccc(lit).md",
+    "aos/hex.md",
+    "aos/base.md",
+    "aos/_aos_glossary.md",
+    "aos/maths/sequences.md",
+    "aos/maths/logarithms.md",
+    "aos/maths/indices.md",
+    "aos/maths/probability.md",
+    "aos/maths/ratio.md",
+    "aos/maths/percentage.md",
+    "aos/aos_img/recurrence relation.png",
+    "aos/aos_img/log rule.png",
+    "aos/maths/fractions.md",
+    "aos/maths",
     "net/cables.md",
+    "_notes/2024-11-26 - prog, net(cables).md",
     "_notes/2024-12-20 - net(exam prep).md",
     "_notes/2024-11-22 - ccc(lit), net(switch, cables).md",
     "_notes/networks_compiled.md",
     "_notes/2024-11-29 - ccc(lit), net(signals).md",
-    "_notes/2024-12-03 - aos(Karnaugh), prog(collection types), net(virtual circuits).md",
     "net/topologies.md",
     "net/net_img/partial mesh.png",
     "z_excalidraw/Drawing 2024-10-23 02.37.24.excalidraw.md",
@@ -245,27 +239,11 @@
     "net/net_img/mesh.png",
     "net/net_img/token ring.png",
     "_notes/2024-12-09 - dsd(aggregate).md",
-    "_notes/2024-12-16 - dsd(aggregate).md",
-    "_notes/2024-12-13 - prog(collection types), net(OSI, CSMA.CD).md",
-    "_notes/2024-12-06 - ccc(lit), net(throughput).md",
     "net/net_img/bus.png",
     "net/net_img/star.png",
     "Pasted image 20250114110752.png",
-    "_notes/2024-12-17 - net(exam).md",
-    "net/_net_glossary.md",
-    "net/protocols.md",
-    "net/CSMA with CD.md",
     "net/net_img/CSMAwithCD.png",
-    "_notes/2024-11-25 - dsd(sql).md",
-    "_notes/2024-11-25 - dsd(cw1 notes).md",
-    "_notes/_todo.md",
-    "_notes/2024-11-11 - dsd(vm & sql).md",
-    "_notes/2024-11-18 - dsd(Constraints), ccc(lit).md",
-    "_notes/2024-12-02 - dsd(aggregate).md",
-    "_notes/2024-12-18 - aos(1s & 2s), ccc(lit).md",
     "ccc/ccc_img/css_rule.png",
-    "dsd/ERD Notations.png",
-    "ccc/ccc_img/media_query.png",
     "ccc/web/html_css",
     "ccc/web",
     "_notes/net",
@@ -275,7 +253,6 @@
     "_notes/a_os",
     "_notes",
     "dsd",
-    "z_excalidraw",
     "Untitled.canvas"
   ]
 }

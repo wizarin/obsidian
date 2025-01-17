@@ -1,6 +1,6 @@
 Decimal to 1s and 2s compliment binary.
 1s - The binary given is already in - or + based on MSB. Invert the given binary, calculate value and add the sign magnitude of the original binary number.
-2s - treat the MSB as (0 or 1) as 128 or -128. Convert the binary to decimal normally (add all units that are 1).
+2s - treat the MSB as (0 or 1) 128 or -128. Convert the binary to decimal normally (add all units that are 1).
 
 ---
 Lit review structure

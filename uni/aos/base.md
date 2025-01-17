@@ -1,6 +1,6 @@
 
 n = base
-n^(range(n-n, n-1))
+$$n^{range(n-n, n-1)}$$
 
 Decimal = base 10
 $$
@@ -19,13 +19,21 @@ $2^{16} = 1024$, which is a megabyte.
 
 
 Decimal to Base:
-	Divide number by base and record remainder. The remainders from first to last read the number in the new base. The last remainder is the highest digit of the number in the new base.
+	Divide number by base and record remainder. The remainders from first to last read the number in the new base. The last remainder is the highest digit of the number in the new base. 
+	*1248 to base 6:*
+$$ 1248 / 6 = 208 r 0 $$
+$$208 / 6 = 34 r 4$$
+$$34 / 6 = 5 r 4$$
+$$5 / 6 = 0 r 5 $$
+	*1248 in base 6 is 5440*
 
 Base to Decimal: 
-	Multiply each number by the base^significant figure of the number
-	So to convert 1234 in base 4 you would:
-		4 x 4^0
-		3 x 4^1
-		2 x 4^2
-		1 x 4^3
+	Multiply each number by the base^(significant figure of the number)
 	And then sum the total of these multiplications. 
+	So to convert 1234 in base 4 to base 10 you would:
+$$ 4 * 4^0 = 4$$
+$$ 3 * 4^1 = 12 $$
+$$ 2 * 4^2 = 32 $$
+$$ 1 * 4^3 =  64 $$
+$$ 4 + 12 + 32 + 64 = 112 $$
+	*1234 in base 4 is 112 in base 10*
