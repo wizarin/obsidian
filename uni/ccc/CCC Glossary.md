@@ -14,4 +14,6 @@ Markup Language
 
 Document Object Model
 
+[[URL]]
+	Uniform Resource Locator - The address that points to a unique resource on the web. A URL consists of the Scheme, Authority, Resource Path, Parameters and Anchor.
 
