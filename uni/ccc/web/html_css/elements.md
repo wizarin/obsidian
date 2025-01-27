@@ -1,6 +1,7 @@
 <!-- This is a comment, Click below for html tags-->
 <!doctype html> Required, this ensures the webpage is using the latest version of HTML
 <html lang="en-US"> Root element, lang attribute sets the docs primary language
+
 	<head></head> Used to store content for the page that doesn't appear on the page. SEO, CSS, character set declarations
 	<meta charset="utf-8"> Sets the character set to 8, this has characters from most languages
 	<meta name="viewport" content="width=device-width">

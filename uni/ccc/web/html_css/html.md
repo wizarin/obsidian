@@ -32,7 +32,7 @@ Semantic -Enables machine processing
 		<img src="images/images-name.opng" alt="image description" />
 		<section>
 			<h1>New Heading</h1>
-			<p> Text manipulation uses tags like <em>Emphasis (Italics)</em> 
+			<p> Text manipulation uses tags like <em>Emphasis (Italics)</em> or <i> emphasis </i> 
 			or <strong>Strong Emphasis (Bold)</strong> </p> 
 		</section>
 		<footer>
