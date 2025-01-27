@@ -6,23 +6,10 @@
       {
         "id": "f6fec7ad73609cba",
         "type": "tabs",
+        "dimension": 36.097852028639615,
         "children": [
           {
             "id": "e53c8f9a05258a6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/2025-01-27.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-01-27"
-            }
-          },
-          {
-            "id": "89f16e16909c7b89",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +22,42 @@
               "title": "Lit Review Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "a484c4e1823bb346",
+        "type": "tabs",
+        "dimension": 63.90214797136038,
+        "children": [
+          {
+            "id": "15c10aaed79612bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The challenge of machine Agency.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The challenge of machine Agency"
+            }
+          },
+          {
+            "id": "d05e4ec7a188e4cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "References"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,8 +199,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "89f16e16909c7b89",
+  "active": "15c10aaed79612bc",
   "lastOpenFiles": [
+    "References.md",
+    "The challenge of machine Agency.md",
     "ccc/Lit Review Notes.md",
     "_notes/2025-01-27.md",
     "_notes/25-01/2025-01-24.md",
@@ -210,8 +233,6 @@
     "_notes/24-12/2024-12-03 - aos(Karnaugh), prog(collection types), net(virtual circuits).md",
     "_notes/24-12/2024-12-18 - aos(1s & 2s), ccc(lit).md",
     "_notes/24-11/2024-11-12 - aos(binary algebra), prog(decisions, expressions), net(IP).md",
-    "aos/karnaugh.md",
-    "aos/hex.md",
     "aos/aos_img/recurrence relation.png",
     "aos/aos_img/log rule.png",
     "aos/maths",
