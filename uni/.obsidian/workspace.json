@@ -4,57 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f6fec7ad73609cba",
+        "id": "ea90ff40a99728fa",
         "type": "tabs",
-        "dimension": 36.097852028639615,
         "children": [
           {
-            "id": "e53c8f9a05258a6c",
+            "id": "cd86f8515b621a2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ccc/Lit Review Notes.md",
+                "file": "_notes/25-01/2025-01-28 (net - cw).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lit Review Notes"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a484c4e1823bb346",
-        "type": "tabs",
-        "dimension": 63.90214797136038,
-        "children": [
-          {
-            "id": "15c10aaed79612bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The challenge of machine Agency.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The challenge of machine Agency"
-            }
-          },
-          {
-            "id": "d05e4ec7a188e4cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "References"
+              "title": "2025-01-28 (net - cw)"
             }
           }
         ]
@@ -113,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 266.5
   },
   "right": {
     "id": "fd62b690e843b4f8",
@@ -199,12 +163,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15c10aaed79612bc",
+  "active": "cd86f8515b621a2f",
   "lastOpenFiles": [
-    "References.md",
-    "The challenge of machine Agency.md",
-    "ccc/Lit Review Notes.md",
-    "_notes/2025-01-27.md",
+    "aos/aos_img/Conceptual computer diagram.png",
+    "_notes/25-01/2025-01-28 (net - cw).md",
+    "ccc/lit_rev",
+    "_notes/25-01/2025-01-28 (aos - computer function and structure).md",
+    "_notes/25-01",
+    "_notes/25-01/2025-01-27 (dsd - recap).md",
+    "_notes/24-12/2024-12-09 - dsd(aggregate).md",
+    "_notes/24-12/2024-12-02 - dsd(aggregate).md",
+    "_notes/24-12/2024-12-16 - dsd(aggregate).md",
+    "ccc/lit_rev/References.md",
+    "ccc/lit_rev/The challenge of machine Agency.md",
+    "ccc/lit_rev/Lit Review Notes.md",
     "_notes/25-01/2025-01-24.md",
     "_notes/2025-01-24.md",
     "ccc/web/discovery.md",
@@ -227,12 +199,6 @@
     "ccc/CCC Glossary.md",
     "ccc/web/html_css/selectors.md",
     "net/-cables.md",
-    "net/-standards.md",
-    "_notes/networks_compiled.md",
-    "aos/binary.md",
-    "_notes/24-12/2024-12-03 - aos(Karnaugh), prog(collection types), net(virtual circuits).md",
-    "_notes/24-12/2024-12-18 - aos(1s & 2s), ccc(lit).md",
-    "_notes/24-11/2024-11-12 - aos(binary algebra), prog(decisions, expressions), net(IP).md",
     "aos/aos_img/recurrence relation.png",
     "aos/aos_img/log rule.png",
     "aos/maths",
@@ -243,11 +209,8 @@
     "net/net_img/star.png",
     "Pasted image 20250114110752.png",
     "net/net_img/CSMAwithCD.png",
-    "ccc/ccc_img/css_rule.png",
     "ccc/web/html_css",
     "ccc/web",
-    "_notes/net",
-    "_notes/code",
-    "_notes/dsd"
+    "_notes/net"
   ]
 }
